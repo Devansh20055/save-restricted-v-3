@@ -22,7 +22,7 @@ from pyrogram.errors import FloodWait
 from ethon.pyfunc import video_metadata
 from ethon.telefunc import force_sub
 
-ft = f"To use this bot you've to join @{fs}."
+ft = f"HEY BUDDY 🙂 \n ⚡️⚡️ JOIN MY CHANNEL :-  @{fs}. TO USE ME ⚡️⚡️"
 
 batch = []
 
