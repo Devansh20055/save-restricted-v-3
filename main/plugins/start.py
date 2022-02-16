@@ -30,7 +30,7 @@ async def sett(event):
         if os.path.exists(f'{event.sender_id}.jpg'):
             os.remove(f'{event.sender_id}.jpg')
         os.rename(path, f'./{event.sender_id}.jpg')
-        await t.edit("Temporary thumbnail saved!")
+        await t.edit("Temporary thumbnail saved!  \n ⚡️⚡️ JOIN MY CHANNEL :-  @TEAM_SILENT_KING FOR MORE ⚡️⚡️")
         
 @Drone.on(events.callbackquery.CallbackQuery(data="rem"))
 async def remt(event):  
@@ -44,6 +44,7 @@ async def remt(event):
   
 @Drone.on(events.NewMessage(incoming=True, pattern=f"{S}"))
 async def start(event):
-    text = "Send me Link of any message to clone it here, For private channel message, send invite link first.\n\n**SUPPORT:** @TeamDrone"
+    text = "-- HEY Buddy 🤡 Send me Link of message to clone it here \n 👻 FOR PUBLIC CHANNEL SEND DIRECT LINK 👻 \n⚜️ For private channel message, Send invite link first ⚜️.\n 👩🏻‍💻👨🏻‍💻SUPPORT: @OFF_CHATS 👩🏻‍💻👨🏻‍💻 \n POWERD BY :- @TEAM_SILENT_KING 🔆
+ 🔰DEV: @ITS_NOT_ROMEO 🔰  --"
     await start_srb(event, text)
     
