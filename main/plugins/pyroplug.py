@@ -38,8 +38,6 @@ async def check(userbot, client, link):
 async def get_msg(userbot, client, sender, edit_id, msg_link, i):
     edit = ""
     chat = ""
-print(msg_link.split("/")[-1])
-print(msg_link)
     msg_id = int(msg_link.split("/")[-1]) + int(i)
     if 't.me/c/' in msg_link:
         chat = int('-100' + str(msg_link.split("/")[-2]))
