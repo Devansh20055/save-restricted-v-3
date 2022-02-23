@@ -75,9 +75,7 @@ First send me Channel invite link so that i can join your channel after that sen
     #end help Messag                                                                              
                                                                                                                   Button.url("👩🏻‍💻👨🏻‍💻 Support Group 👩🏻‍💻👨🏻‍💻", url="https://t.me/OFF_CHATS")],
                                                                                                                 [Button.url("🔰🔰 YouTube Channel🔰🔰", url="https://www.youtube.com/channel/UC28Z7OuZiKuIZ-kFxNkG4Kww")], ])
-    
-    st = """**HEY Buddy 🤡 Send me Link of message to clone it here 
-    👻 FOR PUBLIC CHANNEL SEND DIRECT LINK OF MESSAGE 👻 
-    ⚜️ For private channel message, Send invite link first ⚜️ 
+    "**HEY Buddy 🤡 Send me Link of message to clone it here 
+    �st ⚜️ 
     🔆 POWERD BY :- @TEAM_SILENT_KING 🔆
     🔰CREATOR : @ITS_NOT_ROMEO 🔰 ** .\n**Hit /help to know more. \n JOIN :- @TEAM_SILENT_KING TO USE ME **"""
