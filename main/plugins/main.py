@@ -15,7 +15,7 @@ from ethon.telefunc import fast_upload, fast_download, force_sub
 
 from main.plugins.helpers import get_link, join, screenshot
 
-ft = f"HEY BUDDY 🙂 \n ⚡️⚡️ JOIN MY CHANNEL :-  @{fs}. TO USE ME ⚡️⚡️"
+ft = f"To use this bot you've to join @{fs}."
 
 # To-Do:
 # Make these codes shorter and clean
@@ -37,8 +37,8 @@ async def clone(event):
         return
     edit = await event.reply("Processing!")
     if 't.me/+' in link:
-        x, y = await join(userbot, link)
-        await edit.edit(y)
+        q = await join(userbot, link)
+        await edit.edit(q)
         return 
     if 't.me/' in link:
         await get_msg(userbot, Bot, event.sender_id, edit.id, link, 0)
