@@ -42,8 +42,13 @@ async def remt(event):
     except Exception:
         await event.edit("No thumbnail saved.")                        
   
-@Drone.on(events.NewMessage(incoming=True, pattern=f"{S}"))
-async def start(event):
-    text = "HEY Buddy 🤡 Send me Link of message to clone it here \n 👻 FOR PUBLIC CHANNEL SEND DIRECT LINK 👻 \n⚜️ For private channel message, Send invite link first ⚜️.\n 👩🏻‍💻👨🏻‍💻SUPPORT: @OFF_CHATS 👩🏻‍💻👨🏻‍💻 \n 🔆 POWERD BY :- @TEAM_SILENT_KING 🔆\n�DEV: @ITS_NOT_ROMEO 🔰  --"
-    await start_srb(event, text)
+@Drone.on(events.NewMessage(incoming=True, pattern="/start"))async def start(event): await event.reply(f'{st}', 
+                                                                                                       buttons=[ [Button.url("⚡️⚡️ Updates Channel ⚡️⚡️", url="https://t.me/TEAM_SILENT_KING"),
+                                                                                                                  Button.url("👩🏻‍💻👨🏻‍💻 Support Group 👩🏻‍💻👨🏻‍💻", url="https://t.me/OFF_CHATS")],
+                                                                                                                [Button.url("🔰🔰 YouTube Channel🔰🔰", url="https://www.youtube.com/channel/UC28Z7OuZiKuIZ-kFxNkG4Kww")], ])
     
+    st = """**HEY Buddy 🤡 Send me Link of message to clone it here 
+    👻 FOR PUBLIC CHANNEL SEND DIRECT LINK OF MESSAGE 👻 
+    ⚜️ For private channel message, Send invite link first ⚜️ 
+    🔆 POWERD BY :- @TEAM_SILENT_KING 🔆
+    🔰CREATOR : @ITS_NOT_ROMEO 🔰 ** .\n**Hit /help to know more. \n JOIN :- @TEAM_SILENT_KING TO USE ME **"""
