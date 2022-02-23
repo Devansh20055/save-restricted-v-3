@@ -72,10 +72,4 @@ just send your Post link i will give you that post without Downloading.
 \n\n<b><u>For Private Restricted Channel contents.</b></u>\nTo get private restricted Channel contents, 
 First send me Channel invite link so that i can join your channel after that send me post link of your restricted Channel to get that post. ,
  <B><U><I> JOIN :- @TEAM_SILENT_KING TO USE ME </B></U></I>""", parse_mode="HTML")
-    #end help Messag                                                                              
-                                                                                                                  Button.url("👩🏻‍💻👨🏻‍💻 Support Group 👩🏻‍💻👨🏻‍💻", url="https://t.me/OFF_CHATS")],
-                                                                                                                [Button.url("🔰🔰 YouTube Channel🔰🔰", url="https://www.youtube.com/channel/UC28Z7OuZiKuIZ-kFxNkG4Kww")], ])
-    "**HEY Buddy 🤡 Send me Link of message to clone it here 
-    �st ⚜️ 
-    🔆 POWERD BY :- @TEAM_SILENT_KING 🔆
-    🔰CREATOR : @ITS_NOT_ROMEO 🔰 ** .\n**Hit /help to know more. \n JOIN :- @TEAM_SILENT_KING TO USE ME **"""
+    #end help Messag  
