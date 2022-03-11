@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/ITS_NOT_ROMEO)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by @MaheshChauhan. 
 
@@ -27,7 +27,7 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
  
 API: [API scrapper Bot](https://t.me/USETGSBOT) or [Telegram.org](https://my.telegram.org/auth)
 
-PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorZBot) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@SpEcHiDe/GenerateStringSession)
+PYROGRAM SESSION: [SessionGen Bot](https://t.me/STRING_GENERATOR_OP_BOT) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@SpEcHiDe/GenerateStringSession)
 
 BOT TOKEN: @Botfather on telegram
 
