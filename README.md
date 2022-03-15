@@ -4,7 +4,7 @@
 
 Contact: [Telegram](https://t.me/ITS_NOT_ROMEO)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by @MaheshChauhan. 
+A stable telegram bot to get restricted messages 
 
 - works for both public and private channels
 - Custom thumbnail support for Pvt medias
